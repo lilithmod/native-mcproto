@@ -1,0 +1,21 @@
+{
+  "name": "@lilithmod/native-mcproto-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "native-mcproto.linux-x64-gnu.node",
+  "files": [
+    "native-mcproto.linux-x64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
